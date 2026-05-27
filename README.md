@@ -1,5 +1,7 @@
 # youtudownL
 video download exe
+open dist\YouTube下载器.exe
+
 由python转化，若有ffmpeg最好，没有ffmpeg也是ok的。
 没有ffmpeg文件会保存成.webm格式
 这种格式仍然可以打开并且观看
